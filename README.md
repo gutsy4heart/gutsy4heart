@@ -1,21 +1,21 @@
-# ?? Привет! Я Murad — Full-Stack разработчик
+# рџ‘‹ РџСЂРёРІРµС‚! РЇ Murad вЂ” Full-Stack СЂР°Р·СЂР°Р±РѕС‚С‡РёРє
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Developer;Backend+%7C+.NET+%7C+React;Преподаватель+%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f;Люблю+%d1%87%d0%b8%d1%81%d1%82%d1%8b%d0%b9+%d0%ba%d0%be%d0%b4+%d0%b8+%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d1%83" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Developer;Backend+%7C+.NET+%7C+React;РџСЂРµРїРѕРґР°РІР°С‚РµР»СЊ+%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f;Р›СЋР±Р»СЋ+%d1%87%d0%b8%d1%81%d1%82%d1%8b%d0%b9+%d0%ba%d0%be%d0%b4+%d0%b8+%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d1%83" alt="Typing SVG" />
 </p>
 
 ---
 
-## ????? Обо мне
+## рџ§‘вЂЌрџ’» РћР±Рѕ РјРЅРµ
 
-- ?? Преподаю Backend и Frontend в академии ШАГ
-- ?? Разрабатываю N-уровневые веб-приложения с ASP.NET и React
-- ?? Опыт работы с Azure Blob Storage и SQL Database
-- ?? Помогаю начинающим программистам через онлайн-обучение
+- рџ’ј РџСЂРµРїРѕРґР°СЋ Backend Рё Frontend РІ Р°РєР°РґРµРјРёРё РЁРђР“
+- рџ§± Р Р°Р·СЂР°Р±Р°С‚С‹РІР°СЋ N-СѓСЂРѕРІРЅРµРІС‹Рµ РІРµР±-РїСЂРёР»РѕР¶РµРЅРёСЏ СЃ ASP.NET Рё React
+- в•пёЏ РћРїС‹С‚ СЂР°Р±РѕС‚С‹ СЃ Azure Blob Storage Рё SQL Database
+- рџЋ“ РџРѕРјРѕРіР°СЋ РЅР°С‡РёРЅР°СЋС‰РёРј РїСЂРѕРіСЂР°РјРјРёСЃС‚Р°Рј С‡РµСЂРµР· РѕРЅР»Р°Р№РЅ-РѕР±СѓС‡РµРЅРёРµ
 
 ---
 
-## ?? Стек технологий
+## рџ§  РЎС‚РµРє С‚РµС…РЅРѕР»РѕРіРёР№
 
 ![.NET](https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -27,35 +27,35 @@
 
 ---
 
-## ?? Проекты
+## рџљЂ РџСЂРѕРµРєС‚С‹
 
-| Проект | Описание | Технологии |
+| РџСЂРѕРµРєС‚ | РћРїРёСЃР°РЅРёРµ | РўРµС…РЅРѕР»РѕРіРёРё |
 |--------|----------|------------|
-| ?? **AniMagic** | Сайт для просмотра мультфильмов с рейтингами, комментариями и админ-панелью | ASP.NET Web API, React, SQL Server, Redux |
-| ?? **Novademy** | Образовательная платформа с курсами, видео и авторизацией | ASP.NET Core, React, REST API |
-| ?? **Игра с ИИ** | Игра с Minimax и Alpha-Beta на Python (Tkinter) | Python, ttkbootstrap |
-| ?? **Файловое хранилище** | Загрузка файлов в Azure Blob и логирование в Azure SQL | .NET, Azure SDK |
+| рџЋ® **AniMagic** | РЎР°Р№С‚ РґР»СЏ РїСЂРѕСЃРјРѕС‚СЂР° РјСѓР»СЊС‚С„РёР»СЊРјРѕРІ СЃ СЂРµР№С‚РёРЅРіР°РјРё, РєРѕРјРјРµРЅС‚Р°СЂРёСЏРјРё Рё Р°РґРјРёРЅ-РїР°РЅРµР»СЊСЋ | ASP.NET Web API, React, SQL Server, Redux |
+| рџЋ“ **Novademy** | РћР±СЂР°Р·РѕРІР°С‚РµР»СЊРЅР°СЏ РїР»Р°С‚С„РѕСЂРјР° СЃ РєСѓСЂСЃР°РјРё, РІРёРґРµРѕ Рё Р°РІС‚РѕСЂРёР·Р°С†РёРµР№ | ASP.NET Core, React, REST API |
+| рџ”ў **РРіСЂР° СЃ РР** | РРіСЂР° СЃ Minimax Рё Alpha-Beta РЅР° Python (Tkinter) | Python, ttkbootstrap |
+| вЃпёЏ **Р¤Р°Р№Р»РѕРІРѕРµ С…СЂР°РЅРёР»РёС‰Рµ** | Р—Р°РіСЂСѓР·РєР° С„Р°Р№Р»РѕРІ РІ Azure Blob Рё Р»РѕРіРёСЂРѕРІР°РЅРёРµ РІ Azure SQL | .NET, Azure SDK |
 
 ---
 
-## ?? GitHub Stats
+## рџ“Љ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ваш_логин&show_icons=true&theme=tokyonight" alt="Murad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=РІР°С€_Р»РѕРіРёРЅ&show_icons=true&theme=tokyonight" alt="Murad's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ваш_логин&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=РІР°С€_Р»РѕРіРёРЅ&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## ?? Контакты
+## рџ“ў РљРѕРЅС‚Р°РєС‚С‹
 
-- ?? Email: your_email@example.com  
-- ?? Telegram: [@вашник](https://t.me/вашник)  
-- ?? LinkedIn: [linkedin.com/in/вашпрофиль](https://linkedin.com/in/вашпрофиль)
+- рџ“§ Email: your_email@example.com  
+- рџ’¬ Telegram: [@РІР°С€РЅРёРє](https://t.me/РІР°С€РЅРёРє)  
+- рџ’ј LinkedIn: [linkedin.com/in/РІР°С€РїСЂРѕС„РёР»СЊ](https://linkedin.com/in/РІР°С€РїСЂРѕС„РёР»СЊ)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ваш_логин&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=РІР°С€_Р»РѕРіРёРЅ&style=flat-square&color=blue" alt="Profile Views" />
 </p>
